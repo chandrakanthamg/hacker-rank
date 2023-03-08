@@ -1,6 +1,6 @@
 
 
-public class Main {
+public class Java1DArray {
     public static void main(String[] args) {
         int[] a0 = {0,1,1,1,1,0,1,0,1,0,1,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,0};
         int[] a1 = {0, 0, 0, 0, 0};
